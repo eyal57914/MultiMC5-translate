@@ -164,7 +164,7 @@ msgstr "אנליטיקה"
 #: src/application/setupwizard/AnalyticsWizardPage.cpp:47
 msgctxt "AnalyticsWizardPage|"
 msgid "We track some anonymous statistics about users."
-msgstr ""
+msgstr "אנחנו אוספים סטטיסטיקה אנונימית ממשתמשים"
 
 #: src/application/setupwizard/AnalyticsWizardPage.cpp:48
 msgctxt "AnalyticsWizardPage|"
@@ -174,7 +174,7 @@ msgstr ""
 #: src/application/setupwizard/AnalyticsWizardPage.cpp:62
 msgctxt "AnalyticsWizardPage|"
 msgid "Enable Analytics"
-msgstr "גוגל אנליטיקס"
+msgstr "אפשר אנליטיקס"
 
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:19
 msgctxt "AssetUpdateTask|"
@@ -195,21 +195,21 @@ msgstr "קריאת מדד הנכסים נכשלה!"
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:74
 msgctxt "AssetUpdateTask|"
 msgid "Getting the assets files from Mojang..."
-msgstr ""
+msgstr "משיג את קבצי הנכסים מ - Mojang"
 
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:88
 #, qt-format
 msgctxt "AssetUpdateTask|"
 msgid "Failed to download the assets index:\n"
 "%1"
-msgstr ""
+msgstr "ההורדה של אינדקס הנכסים הכשלה"
 
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:93
 #, qt-format
 msgctxt "AssetUpdateTask|"
 msgid "Failed to download assets:\n"
 "%1"
-msgstr ""
+msgstr "ההורדה של הנכסים נכשלה"
 
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:92
 msgctxt "AuthenticateTask|"
